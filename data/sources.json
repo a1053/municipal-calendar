@@ -1,0 +1,8 @@
+{
+  "sources": [
+    {"name":"Liga Nacional de Guatemala","url":"https://ligagt.org/team/municipal/","priority":1},
+    {"name":"LigaNacionalGT","url":"https://liganacionalgt.com/liga-nacional/equipos/municipal/","priority":2},
+    {"name":"ESPN","url":"https://www.espn.com.ec/futbol/equipo/calendario/_/id/7258/liga/gua.1","priority":3},
+    {"name":"Concacaf","url":"https://www.concacaf.com/competitions/central-american-cup/","priority":1}
+  ]
+}

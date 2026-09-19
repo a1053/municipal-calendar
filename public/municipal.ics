@@ -1,0 +1,750 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CSD Municipal//Calendario Oficial//GT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CSD Municipal
+X-WR-TIMEZONE:America/Guatemala
+BEGIN:VEVENT
+UID:mun-liga-2026-j1-municipal-mixco
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260725T020052Z
+DTEND:20260725T030052Z
+SUMMARY:Municipal vs Mixco (2-0)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 1 | Estado: finished\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j1
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260725T020000Z
+DTEND:20260725T030000Z
+SUMMARY:Municipal vs Mixco (2-0)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 1 | Estado: finished
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-cac-g1
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260731T030000Z
+DTEND:20260731T040000Z
+SUMMARY:Municipal vs CS Cartaginés (1-1)
+DESCRIPTION:Copa Centroamericana 2026 | Fase de grupos | Estado: finished
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j2-marquense-municipal
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260803T000015Z
+DTEND:20260803T010015Z
+SUMMARY:Marquense vs Municipal (1-2)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 2 | Estado: finished\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Marquesa de la Ensenada\, San Marcos
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j2
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260803T000000Z
+DTEND:20260803T010000Z
+SUMMARY:Marquense vs Municipal (1-2)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 2 | Estado: finished
+LOCATION:Estadio Marquesa de la Ensenada\, San Marcos
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-cac-g2
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260807T010000Z
+DTEND:20260807T020000Z
+SUMMARY:Verdes FC vs Municipal (0-1)
+DESCRIPTION:Copa Centroamericana 2026 | Fase de grupos | Estado: finished
+LOCATION:FFB Stadium\, Belmopán
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j3-municipal-coban-imperial
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260809T230000Z
+DTEND:20260810T000000Z
+SUMMARY:Municipal vs Coban Imperial (2-0)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 3 | Estado: finished\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j3
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260809T230000Z
+DTEND:20260810T000000Z
+SUMMARY:Municipal vs Cobán Imperial (2-0)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 3 | Estado: finished
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j4-guastatoya-municipal
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260815T230000Z
+DTEND:20260816T000000Z
+SUMMARY:Guastatoya vs Municipal (1-0)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 4 | Estado: finished\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio David Cordón Hichos\, Guastatoya
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j4
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260815T230000Z
+DTEND:20260816T000000Z
+SUMMARY:Guastatoya vs Municipal (1-0)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 4 | Estado: finished
+LOCATION:Estadio David Cordón Hichos\, Guastatoya
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-cac-g3
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260820T030000Z
+DTEND:20260820T040000Z
+SUMMARY:FAS vs Municipal (1-1)
+DESCRIPTION:Copa Centroamericana 2026 | Fase de grupos | Estado: finished
+LOCATION:Estadio Las Delicias\, San Salvador
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j5-municipal-xelaju-mc
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260823T020000Z
+DTEND:20260823T030000Z
+SUMMARY:Municipal vs Xelaju MC (2-0)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 5 | Estado: finished\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j5
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260823T020000Z
+DTEND:20260823T030000Z
+SUMMARY:Municipal vs Xelajú (2-0)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 5 | Estado: finished
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-cac-g4
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260826T023000Z
+DTEND:20260826T033000Z
+SUMMARY:Municipal vs FC Motagua (1-1)
+DESCRIPTION:Copa Centroamericana 2026 | Fase de grupos | Estado: finished
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j6-comunicaciones-municipal
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260830T010000Z
+DTEND:20260830T020000Z
+SUMMARY:Comunicaciones vs Municipal (0-1)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 6 | Estado: finished\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Cementos Progreso\, Ciudad de Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j6
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260830T010000Z
+DTEND:20260830T020000Z
+SUMMARY:Comunicaciones vs Municipal (0-1)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 6 | Estado: finished
+LOCATION:Estadio Cementos Progreso\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j7-municipal-san-pedro
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260906T230000Z
+DTEND:20260907T000000Z
+SUMMARY:Municipal vs San Pedro (0-0)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 7 | Estado: finished\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j7
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260906T230000Z
+DTEND:20260907T000000Z
+SUMMARY:Municipal vs San Pedro (0-0)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 7 | Estado: finished
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j8-aurora-municipal
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260910T210000Z
+DTEND:20260910T220000Z
+SUMMARY:Aurora vs Municipal (1-2)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 8 | Estado: finished\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Guillermo Slowing\, Ciudad de Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j8
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260910T210000Z
+DTEND:20260910T220000Z
+SUMMARY:Aurora FC vs Municipal (1-2)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 8 | Estado: finished
+LOCATION:Estadio Guillermo Slowing\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j9-municipal-malacateco
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260914T010000Z
+DTEND:20260914T020000Z
+SUMMARY:Municipal vs Malacateco (2-2)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 9 | Estado: finished\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j9
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260914T010000Z
+DTEND:20260914T020000Z
+SUMMARY:Municipal vs Malacateco (2-2)
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 9 | Estado: finished
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j11-municipal-suchitepequez
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260925T020000Z
+DTEND:20260925T030000Z
+SUMMARY:Municipal vs Suchitepequez
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 11 | Estado: scheduled\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j11
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20260925T020000Z
+DTEND:20260925T030000Z
+SUMMARY:Municipal vs Suchitepéquez
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 11 | Estado: scheduled
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j12-mixco-municipal
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261003T170000Z
+DTEND:20261003T180000Z
+SUMMARY:Mixco vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 12 | Estado: scheduled\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Santo Domingo de Guzmán\, Mixco
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j12
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261003T190000Z
+DTEND:20261003T200000Z
+SUMMARY:Mixco vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 12 | Estado: scheduled
+LOCATION:Estadio Santo Domingo de Guzmán\, Mixco
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j10
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261009T010000Z
+DTEND:20261009T020000Z
+SUMMARY:Antigua GFC vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 10 | Estado: scheduled
+LOCATION:Estadio Pensativo\, Antigua Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j10-antigua-gfc-municipal
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261009T010000Z
+DTEND:20261009T020000Z
+SUMMARY:Antigua GFC vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 10 | Estado: scheduled\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Pensativo\, Antigua Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j13
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261011T010000Z
+DTEND:20261011T020000Z
+SUMMARY:Municipal vs Marquense
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 13 | Estado: scheduled
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j13-municipal-marquense
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261011T230000Z
+DTEND:20261012T000000Z
+SUMMARY:Municipal vs Marquense
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 13 | Estado: scheduled\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j14-coban-imperial-municipal
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261015T210000Z
+DTEND:20261015T220000Z
+SUMMARY:Coban Imperial vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 14 | Estado: scheduled\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio José Ángel Rossi\, Cobán
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j14
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261015T230000Z
+DTEND:20261016T000000Z
+SUMMARY:Cobán Imperial vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 14 | Estado: scheduled
+LOCATION:Estadio José Ángel Rossi\, Cobán
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j15-municipal-guastatoya
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261018T230000Z
+DTEND:20261019T000000Z
+SUMMARY:Municipal vs Guastatoya
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 15 | Estado: scheduled\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j15
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261019T010000Z
+DTEND:20261019T020000Z
+SUMMARY:Municipal vs Guastatoya
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 15 | Estado: scheduled
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j16-xelaju-mc-municipal
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261025T020500Z
+DTEND:20261025T030500Z
+SUMMARY:Xelaju MC vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 16 | Estado: scheduled\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Mario Camposeco\, Quetzaltenango
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j16
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261025T030500Z
+DTEND:20261025T040500Z
+SUMMARY:Xelajú vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 16 | Estado: scheduled
+LOCATION:Estadio Mario Camposeco\, Quetzaltenango
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j17-municipal-comunicaciones
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261029T020000Z
+DTEND:20261029T030000Z
+SUMMARY:Municipal vs Comunicaciones
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 17 | Estado: scheduled\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j17
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261029T030000Z
+DTEND:20261029T040000Z
+SUMMARY:Municipal vs Comunicaciones
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 17 | Estado: scheduled
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j18-san-pedro-municipal
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261101T210000Z
+DTEND:20261101T220000Z
+SUMMARY:San Pedro vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 18 | Estado: scheduled\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Municipal de San Pedro\, San Pedro
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j18
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261101T210000Z
+DTEND:20261101T220000Z
+SUMMARY:San Pedro vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 18 | Estado: scheduled
+LOCATION:Estadio Municipal de San Pedro\, San Pedro
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j19
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261105T010000Z
+DTEND:20261105T020000Z
+SUMMARY:Municipal vs Aurora FC
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 19 | Estado: scheduled
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j19-municipal-aurora
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261107T230000Z
+DTEND:20261108T000000Z
+SUMMARY:Municipal vs Aurora
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 19 | Estado: scheduled\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j20
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261109T010000Z
+DTEND:20261109T020000Z
+SUMMARY:Malacateco vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 20 | Estado: scheduled
+LOCATION:Estadio Santa Lucía\, Malacatán
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j20-malacateco-municipal
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261115T010000Z
+DTEND:20261115T020000Z
+SUMMARY:Malacateco vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 20 | Estado: scheduled\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Santa Lucía\, Malacatán
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j21
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261116T010000Z
+DTEND:20261116T020000Z
+SUMMARY:Municipal vs Antigua GFC
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 21 | Estado: scheduled
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j21-municipal-antigua-gfc
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261122T230500Z
+DTEND:20261123T000500Z
+SUMMARY:Municipal vs Antigua GFC
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 21 | Estado: scheduled\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Manuel Felipe Carrera\, Ciudad de Guatemala
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-2026-liga-j22
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261123T000000Z
+DTEND:20261123T010000Z
+SUMMARY:Suchitepéquez vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 22 | Estado: scheduled
+LOCATION:Estadio Carlos Salazar Hijo\, Mazatenango
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mun-liga-2026-j22-suchitepequez-municipal
+SEQUENCE:0
+DTSTAMP:20260918T163759Z
+DTSTART:20261128T210000Z
+DTEND:20261128T220000Z
+SUMMARY:Suchitepequez vs Municipal
+DESCRIPTION:Liga Nacional - Apertura 2026 | Jornada 22 | Estado: scheduled\\nFuente: https://ligagt.org/calendar/calendarioactual/
+LOCATION:Estadio Carlos Salazar Hijo\, Mazatenango
+URL:https://ligagt.org/calendar/calendarioactual/
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Partido de Municipal en 1 hora
+END:VALARM
+END:VEVENT
+END:VCALENDAR

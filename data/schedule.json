@@ -1,0 +1,29 @@
+{
+  "team": "Municipal",
+  "season": "Apertura 2026",
+  "timezone": "America/Guatemala",
+  "fixtures": [
+    [1,"Municipal","Mixco","2026-07-24T20:00:52-06:00","Estadio Manuel Felipe Carrera","Ciudad de Guatemala","finished",2,0],
+    [2,"Marquense","Municipal","2026-08-02T18:00:15-06:00","Estadio Marquesa de la Ensenada","San Marcos","finished",1,2],
+    [3,"Municipal","Coban Imperial","2026-08-09T17:00:00-06:00","Estadio Manuel Felipe Carrera","Ciudad de Guatemala","finished",2,0],
+    [4,"Guastatoya","Municipal","2026-08-15T17:00:00-06:00","Estadio David Cordón Hichos","Guastatoya","finished",1,0],
+    [5,"Municipal","Xelaju MC","2026-08-22T20:00:00-06:00","Estadio Manuel Felipe Carrera","Ciudad de Guatemala","finished",2,0],
+    [6,"Comunicaciones","Municipal","2026-08-29T19:00:00-06:00","Estadio Cementos Progreso","Ciudad de Guatemala","finished",0,1],
+    [7,"Municipal","San Pedro","2026-09-06T17:00:00-06:00","Estadio Manuel Felipe Carrera","Ciudad de Guatemala","finished",0,0],
+    [8,"Aurora","Municipal","2026-09-10T15:00:00-06:00","Estadio Guillermo Slowing","Ciudad de Guatemala","finished",1,2],
+    [9,"Municipal","Malacateco","2026-09-13T19:00:00-06:00","Estadio Manuel Felipe Carrera","Ciudad de Guatemala","finished",2,2],
+    [10,"Antigua GFC","Municipal","2026-10-09T01:00:00Z","Estadio Pensativo","Antigua Guatemala","scheduled",null,null],
+    [11,"Municipal","Suchitepequez","2026-09-24T20:00:00-06:00","Estadio Manuel Felipe Carrera","Ciudad de Guatemala","scheduled",null,null],
+    [12,"Mixco","Municipal","2026-10-03T11:00:00-06:00","Estadio Santo Domingo de Guzmán","Mixco","scheduled",null,null],
+    [13,"Municipal","Marquense","2026-10-11T17:00:00-06:00","Estadio Manuel Felipe Carrera","Ciudad de Guatemala","scheduled",null,null],
+    [14,"Coban Imperial","Municipal","2026-10-15T15:00:00-06:00","Estadio José Ángel Rossi","Cobán","scheduled",null,null],
+    [15,"Municipal","Guastatoya","2026-10-18T17:00:00-06:00","Estadio Manuel Felipe Carrera","Ciudad de Guatemala","scheduled",null,null],
+    [16,"Xelaju MC","Municipal","2026-10-24T20:05:00-06:00","Estadio Mario Camposeco","Quetzaltenango","scheduled",null,null],
+    [17,"Municipal","Comunicaciones","2026-10-28T20:00:00-06:00","Estadio Manuel Felipe Carrera","Ciudad de Guatemala","scheduled",null,null],
+    [18,"San Pedro","Municipal","2026-11-01T15:00:00-06:00","Estadio Municipal de San Pedro","San Pedro","scheduled",null,null],
+    [19,"Municipal","Aurora","2026-11-07T17:00:00-06:00","Estadio Manuel Felipe Carrera","Ciudad de Guatemala","scheduled",null,null],
+    [20,"Malacateco","Municipal","2026-11-14T19:00:00-06:00","Estadio Santa Lucía","Malacatán","scheduled",null,null],
+    [21,"Municipal","Antigua GFC","2026-11-22T17:05:00-06:00","Estadio Manuel Felipe Carrera","Ciudad de Guatemala","scheduled",null,null],
+    [22,"Suchitepequez","Municipal","2026-11-28T15:00:00-06:00","Estadio Carlos Salazar Hijo","Mazatenango","scheduled",null,null]
+  ]
+}
