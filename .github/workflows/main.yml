@@ -1,0 +1,46 @@
+name: Municipal Calendar - Sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Inicializar base de datos
+        run: |
+          if [ ! -f data/municipal.sqlite3 ]; then
+            python scripts/seed.py
+          fi
+
+      - name: Actualizar calendario
+        run: python scripts/sync.py
+
+      - name: Validar calendario
+        run: python scripts/validate.py
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "Municipal Calendar Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/municipal.sqlite3 public/municipal.ics
+          git diff --cached --quiet || (git commit -m "Actualización automática del calendario Municipal" && git push)
